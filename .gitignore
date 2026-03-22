@@ -5,3 +5,5 @@ DerivedData/
 .build/
 *.o
 *.d
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
